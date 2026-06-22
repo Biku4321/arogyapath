@@ -1,0 +1,102 @@
+[
+  {
+    "id": "f001",
+    "name": "Primary Health Centre, Silchar Rural",
+    "type": "PHC",
+    "specialties": ["General Physician"],
+    "lat": 24.8333,
+    "lng": 92.7789,
+    "phone": "03842-XXXXXX",
+    "address": "Silchar Rural Block, Cachar District, Assam"
+  },
+  {
+    "id": "f002",
+    "name": "Silchar Medical College & Hospital",
+    "type": "Hospital",
+    "specialties": ["General Physician", "Cardiologist", "Orthopedist", "Gynecologist", "Pediatrician", "ENT Specialist"],
+    "lat": 24.8200,
+    "lng": 92.8100,
+    "phone": "03842-XXXXXX",
+    "address": "Ghungoor, Silchar, Assam"
+  },
+  {
+    "id": "f003",
+    "name": "Community Health Centre, Borjalenga",
+    "type": "CHC",
+    "specialties": ["General Physician", "Gynecologist"],
+    "lat": 24.7600,
+    "lng": 92.6700,
+    "phone": "03842-XXXXXX",
+    "address": "Borjalenga, Cachar District, Assam"
+  },
+  {
+    "id": "f004",
+    "name": "District Eye Care Centre",
+    "type": "Clinic",
+    "specialties": ["Ophthalmologist"],
+    "lat": 24.8400,
+    "lng": 92.7900,
+    "phone": "03842-XXXXXX",
+    "address": "Tarapur, Silchar, Assam"
+  },
+  {
+    "id": "f005",
+    "name": "Rural Dental & ENT Clinic",
+    "type": "Clinic",
+    "specialties": ["Dentist", "ENT Specialist"],
+    "lat": 24.8100,
+    "lng": 92.7600,
+    "phone": "03842-XXXXXX",
+    "address": "Rangirkhari, Silchar, Assam"
+  },
+  {
+    "id": "f006",
+    "name": "Primary Health Centre, Sonai",
+    "type": "PHC",
+    "specialties": ["General Physician", "Pediatrician"],
+    "lat": 24.6900,
+    "lng": 92.9700,
+    "phone": "03842-XXXXXX",
+    "address": "Sonai, Cachar District, Assam"
+  },
+  {
+    "id": "f007",
+    "name": "Skin & Dermatology Care Clinic",
+    "type": "Clinic",
+    "specialties": ["Dermatologist"],
+    "lat": 24.8350,
+    "lng": 92.7950,
+    "phone": "03842-XXXXXX",
+    "address": "Hospital Road, Silchar, Assam"
+  },
+  {
+    "id": "f008",
+    "name": "Mental Wellness & Counseling Centre",
+    "type": "Clinic",
+    "specialties": ["Psychiatrist / Counselor"],
+    "lat": 24.8250,
+    "lng": 92.7750,
+    "phone": "03842-XXXXXX",
+    "address": "Central Road, Silchar, Assam"
+  },
+  {
+    "id": "f009",
+    "name": "Orthopedic & Bone Care Hospital",
+    "type": "Hospital",
+    "specialties": ["Orthopedist"],
+    "lat": 24.8050,
+    "lng": 92.7500,
+    "phone": "03842-XXXXXX",
+    "address": "Park Road, Silchar, Assam"
+  },
+  {
+    "id": "f010",
+    "name": "Civil Hospital, Karimganj",
+    "type": "Hospital",
+    "specialties": ["General Physician", "Cardiologist", "Gynecologist", "Endocrinologist / General Physician"],
+    "lat": 24.8700,
+    "lng": 92.3550,
+    "phone": "03843-XXXXXX",
+    "address": "Karimganj Town, Assam"
+  }
+]
